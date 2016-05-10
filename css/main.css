@@ -20,7 +20,7 @@ body, html {
   padding: 15px;
   cursor: pointer;
 }
-.nav ul li:first-child {
+.nav ul li:nth-child(2) {
   margin-left: 115px;
 }
 .nav ul li:last-child {
